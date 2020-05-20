@@ -1,0 +1,15 @@
+x = 20
+y = 30 #integer 
+a = [0, 2, 4, 6, 8, 10] #list
+
+for number in range(20):
+    print(number)
+    if number > 10:
+        print("Number is greater than 10")
+    else: 
+        print("Number is boujee")
+
+#if x == 20 and y < 40: 
+    #print("What's Up")
+#else: 
+    #print("Nothing Much")
