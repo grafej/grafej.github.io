@@ -1,0 +1,14 @@
+name = 'Grace'
+print(name)
+print('Shelby')
+color = 'purple'
+result = 2*3 + 10
+print("My name is " + name +". My favorite color is " + color +". And the result of 2*3 + 10 is " + str(result))
+variables = ("these", "are", "strings")
+
+print (" ".join(variables))
+print("%s %s %s" % variables)
+print("{} {} {}".format(*variables))
+print(f"{variables[0]}) {variables[1]} {variables[2]}
+print(variables[0] + " " + variables[1] + " " + variables[2])
+# They all print "these are strings" 
