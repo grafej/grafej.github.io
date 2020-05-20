@@ -1,0 +1,10 @@
+x = 2
+y = 3
+sum = 2+3
+print(sum)
+
+s = 2000
+ t = 0.18
+ sum = s-s*t
+ print(sum)
+ 
