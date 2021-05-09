@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Building the Prototype</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <div id="container">
+    <h1>golden retriever</h1>
+    <!-- photo credit: https://www.loveyourdog.com/
+    <img src="goldenretriever.jpeg" alt="goldenretriever">
+    <div id="card" class="animal-info">
+      <p id="interesting-fact">Find out more about golden retreivers, their eating habits and how to take care of them.</p>
+      <ul id="facts">
+        <li>
+          <span> Name</span>: Approximate Length
+        </li>
+        <li>
+          <span>Approximate Length</span>: 23 - 24 inches
+        </li>
+        <li>
+          <span>Approximate Lifespan</span>: 10 - 12 years
+        </li>
+        <li>
+          <span>Natural Environment</span>: a neighborhood
+        </li>
+      </ul>
+      <p id="summary">Golden retrievers are usually golden brown, have an approxiamate length of 23 - 24 inches, 10 - 12 years for an approximate life span and usually reside in open neighborhoods. 
+      </p>
+    </div>
+  </div>
+</body>
